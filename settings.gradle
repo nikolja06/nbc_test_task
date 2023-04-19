@@ -1,0 +1,3 @@
+rootProject.name = 'API_TESTS'
+include 'api-testing'
+
